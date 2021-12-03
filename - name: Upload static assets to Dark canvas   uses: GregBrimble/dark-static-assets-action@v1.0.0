@@ -1,0 +1,2 @@
+- name: Upload static assets to Dark canvas
+  uses: GregBrimble/dark-static-assets-action@v1.0.0
